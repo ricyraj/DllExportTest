@@ -2,7 +2,7 @@ name: Build 32-bit TestExport.dll
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
